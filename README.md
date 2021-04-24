@@ -1,7 +1,8 @@
 # neubias_reproducible_software
 
-This repo contains, in its wiki, [tables of bioimage-analysis software](https://github.com/NEUBIAS/neubias_reproducible_software/wiki/Table-of-software).
-The tables indicate the degree of reproducibility supported by the software.
+This repo contains, in its wiki, [a table of bioimage-analysis software](https://github.com/NEUBIAS/neubias_reproducible_software/wiki/Table-of-software).
+=======
+The table indicate the degree of reproducibility supported by the software.
 
 For a more complete list of bioimage-analysis software that included plugins, libraries, languages, etc please see http://biii.eu/
 
